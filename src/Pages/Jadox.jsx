@@ -49,7 +49,7 @@ export default function Jadox() {
           </motion.div>
 
           <p className="text-lg sm:text-xl font-semibold text-slate-800 pt-4">
-            Modern ICT Solutions for Forward-Thinking Businesses.
+            Modern ICT Solutions for Forward-Thinking Businesses in Tanzania.
           </p>
 
        <TypeAnimation
